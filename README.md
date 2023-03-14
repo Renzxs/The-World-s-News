@@ -1,4 +1,3 @@
-The World's News 
-- A Digital Newspaper developed by John Florence Batol
-DO NOT COPY FOR AN ASSIGNMENT - Avoid plagiarism and adhere to the spirit of this Academic Honesty Policy.
+👋 Hello, I'm John Florence Batol.
 
+This is The World's News a digital newspaper that I developed for educational purpose. 
